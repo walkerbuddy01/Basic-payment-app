@@ -63,7 +63,7 @@ function Signin() {
 
         <p>
           Create new account{" "}
-          <Link to={"/signup"}>
+          <Link to={"/"}>
             {" "}
             <span className="transition-all ease-linear hover:text-blue-600 hover:font-medium underline-offset-1 hover:underline">
               SignUp
